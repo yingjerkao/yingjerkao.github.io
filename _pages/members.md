@@ -17,7 +17,8 @@ header:
 
 ## Postdoctoral Associate
 
-**Dr. Adam Iaizzi** <br> Ph.D., Boston University, 2017
+ <img src="/assets/images/iaizzi.jpg" height="150px" width="150px"  >
+[**Dr. Adam Iaizzi**](https://iaizzi.me/) <br> Ph.D., Boston University, 2017
 
 
 ## Graduate Students
