@@ -9,11 +9,11 @@ variables:
 before_script:
 - bundle install
 
-pre_build:
-  commands:
-  - export LC_ALL="C.UTF-8"
-  - export LANG="en_US.UTF-8"
-  - export LANGUAGE="en_US.UTF-8"
+variables:
+  LC_ALL: "C.UTF-8"
+  LANG: "en_US.UTF-8"
+  LANGUAGE: "en_US.UTF-8"
+  
 test:
   stage: test
   script:
