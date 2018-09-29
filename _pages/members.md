@@ -12,13 +12,13 @@ header:
 
  <img src="/assets/images/yjkao.jpg" height="150px" width="150px"  >
 
-  **Prof. Ying-Jer Kao 高英哲** <br> Ph.D, University of Chicago, 2001
+  [**Prof. Ying-Jer Kao 高英哲**](/yingjerkao/) <br> Ph.D, University of Chicago, 2001
 
 
 ## Postdoctoral Associate
 
  <img src="/assets/images/iaizzi.jpg" height="150px" width="150px"  >
- 
+
 [**Dr. Adam Iaizzi**](https://iaizzi.me/) <br> Ph.D., Boston University, 2017
 
 
