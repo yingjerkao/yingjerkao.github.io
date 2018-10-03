@@ -111,9 +111,9 @@ The topological critical points are determined by the level spectroscopy method 
 
 ## Reinforcement Learning in Topologically Constrained Systems
 
-
+Coming soon...
 
 
 # Further Reading
 
-Full list of our publication can be found on [Google Scholar](https://scholar.google.com.tw/citations?user=bO-yL20AAAAJ&hl=en&authuser=2) and [arXiv]( http://arxiv.org/a/kao_y_1)
+Full list of our publication can be found on [Google Scholar](https://scholar.google.com.tw/citations?user=bO-yL20AAAAJ&hl=en&authuser=2){:target="_blank"} and [arXiv]( http://arxiv.org/a/kao_y_1){:target="_blank"}
