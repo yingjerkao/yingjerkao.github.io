@@ -19,6 +19,9 @@ permalink: /yingjerkao/
 * Center Scientist, National Center for Theoretical Sciences
 
 ### Past positions
+* Associate Professor, Department of Physics, National Taiwan University
+
+* Assistant Professor, Department of Physics, National Taiwan University
 
 * Postdoctoral Associate, University of Toronto
 
