@@ -26,9 +26,9 @@ header:
 
   **Chih-Yuan Lee 李致遠** (D5)
 
-  **Wen-Han Kao 高文瀚** (D2)
+  **Wen-Han Kao 高文瀚** M.S. 2015, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1708201507570100) (D2)
 
-  **Kai-Hsin Wu 吳愷訢** (D1)
+  **Kai-Hsin Wu 吳愷訢** M.S. 2018, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2307201812462500) (D1)
 
   **Jing-Jer Yan 顏敬哲** (M2)
 
@@ -36,14 +36,43 @@ header:
 
   **Yen-Hsin Wu 吳硯欣** (M1)
 
-## Alumni
+## Former Group Members
 
-**Dr. Adil Gangat** <br> Postdoc, University of Sherbrook
+### Postdocs
+**Dr. Adil Gangat** 2015-2018 <br> Postdoc, University of Sherbrook
+
+**Dr. Olga Sikora** 2012-2015 <br> Institute of Nuclear Physics, Polish Academy of Sciences
+
+**Dr. Derek Larson** 2011-2013 <br> Staff Data Science Engineer, Sojern
+
+**Dr. Jifeng Yu** 2009-2012 <br> Assistant Professor, HuNan University
+
+### Students
+
+**Kevin Zhao 趙愷文** M.S. 2018, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-3007201823591500)
+
+**Hao-Ti Hong 洪浩迪** M.S. 2018, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0808201814024600)
+
+**Chung-Chu Cheng 鄭君筑** M.S. 2017 [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2707201717374800)
+
+**Yun-Hsuan Zhou 周昀萱** M.S. 2016, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0408201615520800)
+
+**Yu-Ping Lin 林育平** M.S. 2016, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0507201611483500)<br> Ph.D. student, University of Colorado, Boulder
 
 
+**Yuan-Chi Yang 楊淵棨** M.S. 2014, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1106201410543500) <br> Ph.D. student, University of Wisconsin
 
+**Po-Kuan Wu 吳柏寬** M.S. 2014, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2907201416455600) <br> Ph.D. student, Ohio State University
+
+**Tzu-Chieh Kuo 郭子傑** M.S. 2014, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2607201416193500)
+
+
+**Ya-Lin Lo 羅雅琳** Ph.D. 2014, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1402201413393700)
+
+**Harvey Hsiao 蕭維翰** B.S. 2014 <br> PhD student, University of Chicago
+
+
+**Yun-Da Hsieh 謝昀達** M.S. 2012, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0908201218425500) <br> Synology
 
 ## Group Photos
-
-
 {% include figure image_path="/assets/images/group2018.jpg" alt="Group photo" caption="Kao Group 2018"%}
