@@ -3,7 +3,7 @@ type: posts
 layout: single
 ---
 
-New preprint is out!
+New preprint by Adil is available at arXiv!
 
 **Classical phase boundary location with information-theoretic entropy in tensor renormalization group flows**
 

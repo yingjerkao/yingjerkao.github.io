@@ -3,7 +3,7 @@ type: posts
 layout: single
 ---
 
-New preprint is out!
+New preprint by Chih-Yuan is available at arXiv!
 
 **Gapless spin liquid in the kagome Heisenberg antiferromagnet with Dzyaloshinskii-Moriya interactions**
 
