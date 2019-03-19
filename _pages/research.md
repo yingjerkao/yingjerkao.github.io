@@ -41,7 +41,7 @@ Directly in the thermodynamic limit, we show how to combine imaginary and real t
  <img src="/assets/images/pess_D_geometry.jpg" width="500px" height="350px" align="center">
 
 
- * *Gapless spin liquid in the kagome Heisenberg antiferromagnet with Dzyaloshinskii-Moriya interactions*,  Chih-Yuan Lee, B. Normand, Ying-Jer Kao, [arXiv:1809.09128](https://arxiv.org/abs/1809.09128).
+ * *Gapless spin liquid in the kagome Heisenberg antiferromagnet with Dzyaloshinskii-Moriya interactions*,  Chih-Yuan Lee, B. Normand, Ying-Jer Kao, [arXiv:1809.09128](https://arxiv.org/abs/1809.09128), [Phys. Rev. B 98, 224414 (2018)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.224414).
 
 
 
@@ -126,8 +126,12 @@ The topological critical points are determined by the level spectroscopy method 
 
 ## Reinforcement Learning in Topologically Constrained Systems
 
-Coming soon...
+We develop a deep reinforcement learning  framework where a machine agent   is trained to search for  a policy to generate a ground state for the square ice model  by exploring the physical environment. After training, the  agent is capable of proposing a sequence of local moves to achieve the goal. Analysis of the trained policy and the state value function indicates that the ice rule  and loop-closing condition are learned without prior knowledge.  
+We test the trained policy as a sampler in the Markov chain Monte Carlo and benchmark against  the baseline loop algorithm. This framework can be  generalized to other models with topological constraints where generation of constraint-preserving states is difficult.
 
+<img src="/assets/images/learning.jpg" width="400px" height="350px" align="center">
+
+* *Generation of  ice states through deep reinforcement learning*, Kai-Wen Zhao, Wen-Han Kao, Kai-Hsin-Wu and Ying-Jer Kao [arXiv:1903.04698](https://arxiv.org/abs/1903.04698)
 
 # Further Reading
 
