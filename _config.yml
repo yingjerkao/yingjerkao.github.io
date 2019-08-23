@@ -107,14 +107,14 @@ author:
   email            : "yjkao@phys.ntu.edu.tw"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :yingjerkao
+  bitbucket        : "yingjerkao"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :yingjerkao
-  gitlab           :yingjerkao
+  github           : "yingjerkao"
+  gitlab           : "yingjerkao"
   google_plus      :
   keybase          :
   instagram        :
