@@ -8,10 +8,12 @@ main:
      url: /about/
    - title: "Research"
      url: /research/
+   - title: "Publication"
+     url: /publication/
    - title: "Members"
      url: /members/
-   - title: "Contacts"
-     url: /contacts/
+   - title: "Contact"
+     url: /contact/
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
