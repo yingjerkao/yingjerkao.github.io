@@ -21,18 +21,10 @@ header:
 
 [**Dr. Adam Iaizzi**](https://iaizzi.me/) <br> Ph.D., Boston University, 2017
 
+<img src="/assets/images/head.jpg" height="150px" width="150px"  >
+[**Dr. Jozef Genzor**]() <br> Ph.D., Slovak Academy of Sciences, 2016
 
 # Graduate Students
-
-  **Chih-Yuan Lee 李致遠** (D5)
-
-  **Kai-Hsin Wu 吳愷訢** M.S. 2018, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2307201812462500) (D1)
-
-  **Dedy Farhamsa** (D1)
-
-  **Jing-Jer Yan 顏敬哲** (M2)
-
-  **Jui-Hui Chung 鍾瑞輝** (M2)
 
   **Yen-Hsin Wu 吳硯欣** (M1)
 
@@ -49,13 +41,21 @@ header:
 
 ## Ph.D. Students
 
+**Chih-Yuan Lee 李致遠** Ph.D. 2019, [Thesis]()
+
 **Ya-Lin Lo 羅雅琳** Ph.D. 2014, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1402201413393700)
 
 ## Master's Students
 
+**Jing-Jer Yan 顏敬哲** M.S. 2019, [Thesis]()
+
+**Jui-Hui Chung 鍾瑞輝** M.S. 2019, [Thesis]()
+
 **Kevin Zhao 趙愷文** M.S. 2018, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-3007201823591500)
 
 **Hao-Ti Hong 洪浩迪** M.S. 2018, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0808201814024600)
+
+**Kai-Hsin Wu 吳愷訢** M.S. 2018, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2307201812462500)
 
 **Chung-Chu Cheng 鄭君筑** M.S. 2017 [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2707201717374800)
 
