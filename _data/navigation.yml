@@ -8,8 +8,8 @@ main:
      url: /about/
    - title: "Research"
      url: /research/
-   - title: "Publication"
-     url: /publication/
+   - title: "Publications"
+     url: /publications/
    - title: "Members"
      url: /members/
    - title: "Contact"

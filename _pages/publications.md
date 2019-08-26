@@ -1,7 +1,7 @@
 ---
 layout: splash
-permalink: /publication/
-title: "Publication List"
+permalink: /publications/
+title: "Publications"
 header:
   overlay_image: "/assets/images/vladimir-anikeev-IM8ZyYaSW6g-unsplash.jpg"
   caption: "Photo by Vladimir Anikeev on Unsplash"
