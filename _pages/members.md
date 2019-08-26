@@ -22,6 +22,7 @@ header:
 [**Dr. Adam Iaizzi**](https://iaizzi.me/) <br> Ph.D., Boston University, 2017
 
 <img src="/assets/images/head.jpg" height="150px" width="150px"  >
+
 [**Dr. Jozef Genzor**]() <br> Ph.D., Slovak Academy of Sciences, 2016
 
 # Graduate Students
@@ -53,9 +54,9 @@ header:
 
 **Kevin Zhao 趙愷文** M.S. 2018, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-3007201823591500)
 
-**Hao-Ti Hong 洪浩迪** M.S. 2018, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0808201814024600)
+**Hao-Ti Hong 洪浩迪** M.S. 2018, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0808201814024600) <br> Chroma
 
-**Kai-Hsin Wu 吳愷訢** M.S. 2018, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2307201812462500)
+**Kai-Hsin Wu 吳愷訢** M.S. 2018, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2307201812462500) <br> Ph.D. student, Boston University
 
 **Chung-Chu Cheng 鄭君筑** M.S. 2017 [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2707201717374800)
 
