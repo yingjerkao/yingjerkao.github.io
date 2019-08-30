@@ -21,7 +21,7 @@ header:
 
 [**Dr. Adam Iaizzi**](https://iaizzi.me/) <br> Ph.D., Boston University, 2017
 
-<img src="/assets/images/head.jpg" height="150px" width="150px"  >
+<img src="/assets/images/jg.jpg" height="150px" width="150px"  >
 
 [**Dr. Jozef Genzor**]() <br> Ph.D., Slovak Academy of Sciences, 2016
 
