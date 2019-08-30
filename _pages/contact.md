@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /contacts/
+permalink: /contact/
 title: "Contact us"
 header:
   overlay_image: "/assets/images/data-stream-abstract-hd-wallpaper-1920x1080-2373.jpg"
