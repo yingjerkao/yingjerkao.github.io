@@ -94,7 +94,7 @@ We find that the system does not show a $$Z_2$$ topological order down to extrem
  <img src="/assets/images/TEE.jpg" width="500px" height="350px" align="center">
 
 
-* *Tunneling-induced restoration of  classical degeneracy in quantum kagome ice*, Kai-Hsin Wu, Yi-Ping Huang, Ying-Jer Kao, [arXiv:1806.08145](https://arxiv.org/abs/1806.08145).
+* *Tunneling-induced restoration of  classical degeneracy in quantum kagome ice*, Kai-Hsin Wu, Yi-Ping Huang, Ying-Jer Kao, [arXiv:1806.08145](https://arxiv.org/abs/1806.08145) [Phys. Rev. B 99, 134440 (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.134440).
 
 
 # Classical and Quantum Phase Tranistions
@@ -131,7 +131,7 @@ We test the trained policy as a sampler in the Markov chain Monte Carlo and benc
 
 <img src="/assets/images/learning.jpg" width="400px" height="350px" align="center">
 
-* *Generation of  ice states through deep reinforcement learning*, Kai-Wen Zhao, Wen-Han Kao, Kai-Hsin-Wu and Ying-Jer Kao [arXiv:1903.04698](https://arxiv.org/abs/1903.04698)
+* *Generation of  ice states through deep reinforcement learning*, Kai-Wen Zhao, Wen-Han Kao, Kai-Hsin-Wu and Ying-Jer Kao [arXiv:1903.04698](https://arxiv.org/abs/1903.04698) [Phys. Rev. E 99, 062106 (2019)](https://doi.org/10.1103/PhysRevE.99.062106).
 
 # Further Reading
 
