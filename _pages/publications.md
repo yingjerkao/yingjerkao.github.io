@@ -19,7 +19,7 @@ Full list of our publication can be found on [Google Scholar](https://scholar.go
 [Phys. Rev. B 99, 134440 (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.134440)
   5. "Crossover of correlation functions near a quantum impurity in a Tomonaga-Luttinger liquid", Chung-Yu Lo (羅中佑), Yoshiki Fukusumi (福住吉喜), Masaki Oshikawa (押川正毅), Ying-Jer Kao (高英哲), and Pochung Chen (陳柏中),
   [Phys. Rev. B 99, 121103(R) (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.121103)
-  6. "Phase boundary location with information-theoretic entropy in tensor renormalization group flows", Adil A. Gangat, Ying-Jer Kao, [arXiv:1901.08193](https://arxiv.org/abs/1901.08193)
+  6. "Phase boundary location with information-theoretic entropy in tensor renormalization group flows", Adil A. Gangat, Ying-Jer Kao, [Phys. Rev. B 100, 094430](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.094430), [arXiv:1901.08193](https://arxiv.org/abs/1901.08193)
 
 ## 2018
 
@@ -40,4 +40,3 @@ Full list of our publication can be found on [Google Scholar](https://scholar.go
   1. "Incommensurate spin density wave as a signature of spin-orbit coupling and precursor of topological superconductivity", Aaron Farrell, P.-K. Wu, Y.-J. Kao, and T. Pereg-Barnea, [Phys. Rev. B 94, 214424 (2016)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.214424)
   2. "Field-induced ordering in dipolar spin ice", Wen-Han Kao (高文瀚), Peter C. W. Holdsworth, and Ying-Jer Kao (高英哲),
   [Phys. Rev. B 93, 180410(R) (2016)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.180410)
- 
