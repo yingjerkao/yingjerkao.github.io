@@ -42,15 +42,15 @@ header:
 
 ## Ph.D. Students
 
-**Chih-Yuan Lee 李致遠** Ph.D. 2019, [Thesis]()
+**Chih-Yuan Lee 李致遠** Ph.D. 2019, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1308201923354000)
 
 **Ya-Lin Lo 羅雅琳** Ph.D. 2014, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1402201413393700)
 
 ## Master's Students
 
-**Jing-Jer Yan 顏敬哲** M.S. 2019, [Thesis]()
+**Jing-Jer Yan 顏敬哲** M.S. 2019, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1108201922360300)
 
-**Jui-Hui Chung 鍾瑞輝** M.S. 2019, [Thesis]()
+**Jui-Hui Chung 鍾瑞輝** M.S. 2019, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1308201911222900)
 
 **Kevin Zhao 趙愷文** M.S. 2018, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-3007201823591500)
 
