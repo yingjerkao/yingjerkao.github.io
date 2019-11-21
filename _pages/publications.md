@@ -12,7 +12,7 @@ Full list of our publication can be found on [Google Scholar](https://scholar.go
 
 ## 2019
 
-  1. "Phase structure of the 1+ 1 dimensional massive Thirring model from matrix product states", Mari Carmen Bañuls, Krzysztof Cichy, Ying-Jer Kao, C-J David Lin, Yu-Ping Lin, David T-L Tan, [arXiv:1908.04536](https://arxiv.org/abs/1908.04536)
+  1. "Phase structure of the 1+ 1 dimensional massive Thirring model from matrix product states", Mari Carmen Bañuls, Krzysztof Cichy, Ying-Jer Kao, C-J David Lin, Yu-Ping Lin, David T-L Tan, [arXiv:1908.04536](https://arxiv.org/abs/1908.04536),[Phys. Rev. D, 100, 094504 (2019) ](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.094504)
   2. "Emergent Snake Magnetic Domains in Canted Kagome Ice", Wen-Han Kao, Gia-Wei Chern, Ying-Jer Kao [arXiv:1908.05872](https://arxiv.org/abs/1908.05872)
   3. "Generation of ice states through deep reinforcement learning", Kai-Wen Zhao, Wen-Han Kao, Kai-Hsin Wu, and Ying-Jer Kao, [Phys. Rev. E 99, 062106 (2019)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062106)
   4. "Tunneling-induced restoration of classical degeneracy in quantum kagome ice", Kai-Hsin Wu, Yi-Ping Huang, and Ying-Jer Kao,
