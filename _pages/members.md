@@ -17,21 +17,20 @@ header:
 
 # Postdoctoral Associate
 
- <img src="/assets/images/iaizzi.jpg" height="150px" width="150px"  >
-
-[**Dr. Adam Iaizzi**](https://iaizzi.me/) <br> Ph.D., Boston University, 2017
-
 <img src="/assets/images/jg.jpg" height="150px" width="150px"  >
 
 [**Dr. Jozef Genzor**]() <br> Ph.D., Slovak Academy of Sciences, 2016
 
 # Graduate Students
+**Jui-Hui Chung 鍾瑞輝** (P2), M.S. 2019, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1308201911222900)
 
-  **Yen-Hsin Wu 吳硯欣** (M1)
+**Yen-Hsin Wu 吳硯欣** (M2)
 
 # Former Group Members
 
 ## Postdocs
+**Dr. Adam Iaizzi** 2018-2020
+
 **Dr. Adil Gangat** 2015-2018 <br> Postdoc, University of Sherbrook
 
 **Dr. Olga Sikora** 2012-2015 <br> Institute of Nuclear Physics, Polish Academy of Sciences
@@ -49,8 +48,6 @@ header:
 ## Master's Students
 
 **Jing-Jer Yan 顏敬哲** M.S. 2019, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1108201922360300)
-
-**Jui-Hui Chung 鍾瑞輝** M.S. 2019, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1308201911222900)
 
 **Kevin Zhao 趙愷文** M.S. 2018, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-3007201823591500)
 
@@ -97,7 +94,6 @@ header:
 ## Undergraduate Students
 
 **Harvey Hsiao 蕭維翰** B.S. 2014 <br> PhD student, University of Chicago
-
 
 
 
