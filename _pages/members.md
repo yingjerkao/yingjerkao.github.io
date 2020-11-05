@@ -22,9 +22,13 @@ header:
 [**Dr. Jozef Genzor**]() <br> Ph.D., Slovak Academy of Sciences, 2016
 
 # Graduate Students
-**Jui-Hui Chung 鍾瑞輝** (P2), M.S. 2019, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1308201911222900)
+**Jui-Hui Chung 鍾瑞輝** (D2), M.S. 2019, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1308201911222900)
 
 **Yen-Hsin Wu 吳硯欣** (M2)
+
+**Yu-Hsueh Chen 陳昱學** (M1)
+
+**Ting-Chun David Lin 林鼎鈞** (M1)
 
 # Former Group Members
 
