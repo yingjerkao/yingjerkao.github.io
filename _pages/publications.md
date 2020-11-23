@@ -11,7 +11,7 @@ header:
 
 ## 2020
 1. "Emergent Snake Magnetic Domains in Canted Kagome Ice", Wen-Han Kao, Gia-Wei Chern, Ying-Jer Kao , [Phys. Rev. Res, 2, 023046](https://doi.org/10.1103/PhysRevResearch.2.023046), [arXiv:1908.05872](https://arxiv.org/abs/1908.05872).
-2. "Entanglement Renyi negativity across a finite temperature transition: a Monte Carlo study",Kai-Hsin Wu, Tsung-Cheng Lu, Chia-Min Chung, Ying-Jer Kao, Tarun Grover, [Phys. Rev. Lett. 125, 140603](https://doi.org/10.1103/PhysRevLett.125.140603)[arXiv:1912.07343](https://arxiv.org/abs/1912.07343).
+2. "Entanglement Renyi negativity across a finite temperature transition: a Monte Carlo study",Kai-Hsin Wu, Tsung-Cheng Lu, Chia-Min Chung, Ying-Jer Kao, Tarun Grover, [Phys. Rev. Lett. 125, 140603(2020)],(https://doi.org/10.1103/PhysRevLett.125.140603)[arXiv:1912.07343](https://arxiv.org/abs/1912.07343).
 3. "Neural Monte Carlo Renormalization Group", Jui-Hui Chung, Ying-Jer Kao, [arXiv:2010.05703](https://arxiv.org/abs/2010.05703)
 
 ## 2019
