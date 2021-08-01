@@ -17,23 +17,23 @@ header:
 
 # Postdoctoral Associate
 
-<img src="/assets/images/jg.jpg" height="150px" width="150px"  >
 
-[**Dr. Jozef Genzor**]() <br> Ph.D., Slovak Academy of Sciences, 2016
 
 # Graduate Students
-**Jui-Hui Chung 鍾瑞輝** (D2), M.S. 2019, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1308201911222900)
-
-**Yen-Hsin Wu 吳硯欣** (M2)
 
 **Yu-Hsueh Chen 陳昱學** (M1)
 
-**Ting-Chun David Lin 林鼎鈞** (M1)
+# Undergraduate Students
+
+**Chih-Min Huang 黃誌敏**
 
 # Former Group Members
 
 ## Postdocs
-**Dr. Adam Iaizzi** 2018-2020
+
+**Dr. Jozef Genzor** 2019-2021
+
+**Dr. Adam Iaizzi** 2018-2020 <br> DOE
 
 **Dr. Adil Gangat** 2015-2018 <br> Postdoc, University of Sherbrook
 
@@ -50,6 +50,12 @@ header:
 **Ya-Lin Lo 羅雅琳** Ph.D. 2014, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1402201413393700)
 
 ## Master's Students
+
+**Ting-Chun David Lin 林鼎鈞** <br> Ph.D. student, UCSD
+
+**Yen-Hsin Wu 吳硯欣**
+
+**Jui-Hui Chung 鍾瑞輝**, M.S. 2019, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1308201911222900) <br> Ph.D. student, Princeton University
 
 **Jing-Jer Yan 顏敬哲** M.S. 2019, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1108201922360300)
 

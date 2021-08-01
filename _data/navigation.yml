@@ -12,6 +12,8 @@ main:
      url: /publications/
    - title: "Members"
      url: /members/
+   - title: "Join"
+     url: /perspective/
    - title: "Contact"
      url: /contact/
 
