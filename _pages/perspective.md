@@ -22,7 +22,7 @@ we do in the group. Also, you can checkout our recent papers in [publications](/
 
 1. Quantum Spin Liquids, Lucile Savary, Leon Balents, [arXiv:1601.03742](https://arxiv.org/abs/1601.03742)
 2. Quantum Spin Ice: A Search for Gapless Quantum Spin Liquids in Pyrochlore Magnets, Michel J.P. Gingras, Paul A. McClarty, [arXiv:1311.1817](https://arxiv.org/abs/1311.1817)
-3. A Field Guide to Spin Liquids, Johannes Knolle, Roderich Moessner
+3. A Field Guide to Spin Liquids, Johannes Knolle, Roderich Moessner, [arXiv:1804.02037](https://arxiv.org/abs/1804.02037)
 4. Spin Liquids in Frustrated Magnets, Leon Balents, [Nature volume 464, pages 199–208 (2010)](https://www.nature.com/articles/nature08917)
 
 

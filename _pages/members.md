@@ -27,6 +27,8 @@ header:
 
 **Chih-Min Huang 黃誌敏**
 
+**Ke Ksu 許可**
+
 # Former Group Members
 
 ## Postdocs
@@ -52,6 +54,8 @@ header:
 ## Master's Students
 
 **Ting-Chun David Lin 林鼎鈞** <br> Ph.D. student, UCSD
+
+**Yueh-Chen Lee 李岳臻** <br> Ph.D. student, University of Minnesota
 
 **Yen-Hsin Wu 吳硯欣**
 
