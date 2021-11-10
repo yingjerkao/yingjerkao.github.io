@@ -10,6 +10,7 @@ header:
 
   Full list of our publication can be found on [Google Scholar](https://scholar.google.com.tw/citations?user=bO-yL20AAAAJ&hl=en&authuser=2){:target="_blank"} and [arXiv]( http://arxiv.org/a/kao_y_1){:target="_blank"}
 ## 2021
+1. "Variational Quantum Reinforcement Learning via Evolutionary Optimization", Samuel Yen-Chi Chen, Chih-Min Huang, Chia-Wei Hsing, Hsi-Sheng Goan, Ying-Jer Kao, [arXiv:2109.00540](https://arxiv.org/abs/2109.00540).
 1. "Phase structure of the CP(1) model in the presence of a topological $$\theta$$-term", Katsumasa Nakayama, Lena Funcke, Karl Jansen, Ying-Jer Kao, Stefan Kühn, [arXiv:2107.14220](https://arxiv.org/abs/2107.14220).
 1. "J1-J2 fractal studied by multi-recursion tensor-network method", Josef Genzor, Andrej Gendiar, Ying-Jer Kao,
 [arXiv:2107.11406](https://arxiv.org/abs/2107.11406).
@@ -18,7 +19,7 @@ header:
 3. "Two-wire Junction of Inequivalent Tomonaga-Luttinger Liquids", Yao-Tai Kang, Chung-Yu Lo, Masaki Oshikawa, Ying-Jer Kao, Pochung Chen, [arXiv:2105.03104](https://arxiv.org/abs/2105.03104)
 4. "Detecting transition between Abelian and non-Abelian topological orders through symmetric tensor networks", Yu-Hsueh Chen, Ching-Yu Huang, and Ying-Jer Kao, [Phys. Rev. B 104, 045131(2021)](https://doi.org/10.1103/PhysRevB.104.045131), [arXiv:2102.10980](https://arxiv.org/abs/2102.10980).
 5. "Neural Monte Carlo Renormalization Group", Jui-Hui Chung, Ying-Jer Kao, [Phys. Rev. Research 3, 023230(2021)](https://doi.org/10.1103/PhysRevResearch.3.023230), [arXiv:2010.05703](https://arxiv.org/abs/2010.05703).
-6. "An end-to-end trainable hybrid classical-quantum classifier", Samual Yen-Chi Chen, Chih-Min Huang, Chia-Wei Hsing, Ying-Jer Kao, [arXiv:2102.02416](https://arxiv.org/abs/2102.02416).
+6. "An end-to-end trainable hybrid classical-quantum classifier", Samual Yen-Chi Chen, Chih-Min Huang, Chia-Wei Hsing, Ying-Jer Kao, [Mach. Learn.: Sci. Technol. 2 045021 (2021)](https://doi.org/10.1088/2632-2153/ac104d)[arXiv:2102.02416](https://arxiv.org/abs/2102.02416).
 
 ## 2020
 1. "Emergent Snake Magnetic Domains in Canted Kagome Ice", Wen-Han Kao, Gia-Wei Chern, Ying-Jer Kao , [Phys. Rev. Res, 2, 023046](https://doi.org/10.1103/PhysRevResearch.2.023046), [arXiv:1908.05872](https://arxiv.org/abs/1908.05872).
