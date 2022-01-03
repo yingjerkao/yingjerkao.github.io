@@ -15,10 +15,10 @@ header:
 [arXiv:2107.11406](https://arxiv.org/abs/2107.11406).
 2. "Excitation spectrum of spin-1 Kitaev spin liquids", Yu-Hseuh Chen, Jozef Genzor, Yong Baek Kim, Ying-Jer Kao,
 [arXiv:2107.04730](https://arxiv.org/abs/2107.04730).
-3. "Two-wire Junction of Inequivalent Tomonaga-Luttinger Liquids", Yao-Tai Kang, Chung-Yu Lo, Masaki Oshikawa, Ying-Jer Kao, Pochung Chen, [arXiv:2105.03104](https://arxiv.org/abs/2105.03104)
+3. "Two-wire Junction of Inequivalent Tomonaga-Luttinger Liquids", Yao-Tai Kang, Chung-Yu Lo, Masaki Oshikawa, Ying-Jer Kao, Pochung Chen, [Phys. Rev. B, 104, 235142(2021)](https://link.aps.org/doi/10.1103/PhysRevB.104.235142), [arXiv:2105.03104](https://arxiv.org/abs/2105.03104)
 4. "Detecting transition between Abelian and non-Abelian topological orders through symmetric tensor networks", Yu-Hsueh Chen, Ching-Yu Huang, and Ying-Jer Kao, [Phys. Rev. B 104, 045131(2021)](https://doi.org/10.1103/PhysRevB.104.045131), [arXiv:2102.10980](https://arxiv.org/abs/2102.10980).
 5. "Neural Monte Carlo Renormalization Group", Jui-Hui Chung, Ying-Jer Kao, [Phys. Rev. Research 3, 023230(2021)](https://doi.org/10.1103/PhysRevResearch.3.023230), [arXiv:2010.05703](https://arxiv.org/abs/2010.05703).
-6. "An end-to-end trainable hybrid classical-quantum classifier", Samual Yen-Chi Chen, Chih-Min Huang, Chia-Wei Hsing, Ying-Jer Kao, [arXiv:2102.02416](https://arxiv.org/abs/2102.02416).
+6. "An end-to-end trainable hybrid classical-quantum classifier", Samual Yen-Chi Chen, Chih-Min Huang, Chia-Wei Hsing, Ying-Jer Kao, [Mach. Learn.: Sci. Technol. 2 045021 (2021)](https://iopscience.iop.org/article/10.1088/2632-2153/ac104d), [arXiv:2102.02416](https://arxiv.org/abs/2102.02416).
 
 ## 2020
 1. "Emergent Snake Magnetic Domains in Canted Kagome Ice", Wen-Han Kao, Gia-Wei Chern, Ying-Jer Kao , [Phys. Rev. Res, 2, 023046](https://doi.org/10.1103/PhysRevResearch.2.023046), [arXiv:1908.05872](https://arxiv.org/abs/1908.05872).
@@ -28,11 +28,11 @@ header:
 ## 2019
 
 1. "Optimal Real-Space Renormalization-Group Transformations with Artificial Neural Networks", Jui-Hui Chung, Ying-Jer Kao, [arXiv:1912.09005](https://arxiv.org/abs/1912.09005), proceeding of Workshop on Machine Learning and the Physical Sciences at the 33rd Conference on Neural Information Processing Systems (NeurIPS).
-2. "Phase structure of the 1+ 1 dimensional massive Thirring model from matrix product states", Mari Carmen Bañuls, Krzysztof Cichy, Ying-Jer Kao, C-J David Lin, Yu-Ping Lin, David T-L Tan,[Phys. Rev. D, 100, 094504 (2019) ](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.094504), [arXiv:1908.04536](https://arxiv.org/abs/1908.04536).
-3. "Generation of ice states through deep reinforcement learning", Kai-Wen Zhao, Wen-Han Kao, Kai-Hsin Wu, and Ying-Jer Kao, [Phys. Rev. E 99, 062106 (2019)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062106),[arXiv:1903.04698](https://arxiv.org/abs/1903.04698).
+2. "Phase structure of the 1+ 1 dimensional massive Thirring model from matrix product states", Mari Carmen Bañuls, Krzysztof Cichy, Ying-Jer Kao, C-J David Lin, Yu-Ping Lin, David T-L Tan,[Phys. Rev. D, 100, 094504 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.094504), [arXiv:1908.04536](https://arxiv.org/abs/1908.04536).
+3. "Generation of ice states through deep reinforcement learning", Kai-Wen Zhao, Wen-Han Kao, Kai-Hsin Wu, and Ying-Jer Kao, [Phys. Rev. E 99, 062106 (2019)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062106), [arXiv:1903.04698](https://arxiv.org/abs/1903.04698).
 4. "Tunneling-induced restoration of classical degeneracy in quantum kagome ice", Kai-Hsin Wu, Yi-Ping Huang, and Ying-Jer Kao,[Phys. Rev. B 99, 134440 (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.134440), [arXiv:1806.08145](https://arxiv.org/abs/1806.08145).
 5. "Crossover of correlation functions near a quantum impurity in a Tomonaga-Luttinger liquid", Chung-Yu Lo (羅中佑), Yoshiki Fukusumi (福住吉喜), Masaki Oshikawa (押川正毅), Ying-Jer Kao (高英哲), and Pochung Chen (陳柏中),[Phys. Rev. B 99, 121103(R) (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.121103), [arXiv:1805.05006](https://arxiv.org/abs/1805.05006).
-6. "Phase boundary location with information-theoretic entropy in tensor renormalization group flows", Adil A. Gangat, Ying-Jer Kao, [Phys. Rev. B 100, 094430 (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.094430), [arXiv:1901.08193](https://arxiv.org/abs/1901.08193)
+6. "Phase boundary location with information-theoretic entropy in tensor renormalization group flows", Adil A. Gangat, Ying-Jer Kao, [Phys. Rev. B 100, 094430 (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.094430), [arXiv:1901.08193](https://arxiv.org/abs/1901.08193).
 
 ## 2018
 
@@ -43,7 +43,7 @@ header:
 ## 2017
 
 1. "Dynamic scaling in the two-dimensional Ising spin glass with normal-distributed couplings", Na Xu, Kai-Hsin Wu, Shanon J. Rubin, Ying-Jer Kao, and Anders W. Sandvik, [Phys. Rev. E 96, 052102 (2017)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.052102).
-2. "Griffiths singularities in the random quantum Ising antiferromagnet: A tree tensor network renormalization group study", Yu-Ping Lin, Ying-Jer Kao, Pochung Chen, and Yu-Cheng Lin, [Phys. Rev. B 96, 064427 (2017)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.064427)
+2. "Griffiths singularities in the random quantum Ising antiferromagnet: A tree tensor network renormalization group study", Yu-Ping Lin, Ying-Jer Kao, Pochung Chen, and Yu-Cheng Lin, [Phys. Rev. B 96, 064427 (2017)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.064427).
 3. "Steady States of Infinite-Size Dissipative Quantum Chains via Imaginary Time Evolution", Adil A. Gangat, Te I, and Ying-Jer Kao, [Phys. Rev. Lett. 119, 010501 (2017)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.010501).
 4. "Quantum phase transitions driven by rhombic-type single-ion anisotropy in the S=1 Haldane chain", Yu-Chin Tzeng (曾郁欽), Hiroaki Onishi (大西弘明), Tsuyoshi Okubo (大久保毅), and Ying-Jer Kao (高英哲),[Phys. Rev. B 96, 060404(R) (2017)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.060404).
 

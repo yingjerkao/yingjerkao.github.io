@@ -17,7 +17,7 @@ will be preferable.
 Here is a short list of overview papers that you can read to get a flavor of what
 we do in the group. Also, you can checkout our recent papers in [publications](/publications/).
 
-
+My thoughts on [how to do research](/assets/research.pdf).
 ## Spin Liquids
 
 1. Quantum Spin Liquids, Lucile Savary, Leon Balents, [arXiv:1601.03742](https://arxiv.org/abs/1601.03742)
