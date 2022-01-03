@@ -10,6 +10,7 @@ header:
 
   Full list of our publication can be found on [Google Scholar](https://scholar.google.com.tw/citations?user=bO-yL20AAAAJ&hl=en&authuser=2){:target="_blank"} and [arXiv]( http://arxiv.org/a/kao_y_1){:target="_blank"}
 ## 2021
+1. "Variational Quantum Reinforcement Learning via Evolutionary Optimization", Samuel Yen-Chi Chen, Chih-Min Huang, Chia-Wei Hsing, Hsi-Sheng Goan, Ying-Jer Kao, [arXiv:2109.00540](https://arxiv.org/abs/2109.00540).
 1. "Phase structure of the CP(1) model in the presence of a topological $$\theta$$-term", Katsumasa Nakayama, Lena Funcke, Karl Jansen, Ying-Jer Kao, Stefan Kühn, [arXiv:2107.14220](https://arxiv.org/abs/2107.14220).
 1. "J1-J2 fractal studied by multi-recursion tensor-network method", Josef Genzor, Andrej Gendiar, Ying-Jer Kao,
 [arXiv:2107.11406](https://arxiv.org/abs/2107.11406).
