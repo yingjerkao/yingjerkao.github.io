@@ -24,12 +24,16 @@ header:
 
 # Graduate Students
 
-**Jia-Hao Lee 李佳豪** (D2)
 
 **Yu-Hsueh Chen 陳昱學** (D1)
 
 **Guan-Lin Lin 林冠霖** (M2)
 
+**Yun-Chung Chen 陳允中** (M1)
+
+**Hsiang-Bin Chiu 邱翔彬** (M1)
+
+**Ta-Rong Cheng 程大榕** (M1)
 
 # Undergraduate Students
 
@@ -39,7 +43,7 @@ header:
 
 ## Postdocs
 
-**Dr. Jozef Genzor** 2019-2021
+**Dr. Jozef Genzor** 2019-2021 <br> Postdoc, NCTS
 
 **Dr. Adam Iaizzi** 2018-2020 <br> DOE
 
@@ -52,6 +56,8 @@ header:
 **Dr. Jifeng Yu** 2009-2012 <br> Assistant Professor, HuNan University
 
 ## Ph.D. Students
+
+**Jia-Hao Lee 李佳豪** 
 
 **Chih-Yuan Lee 李致遠** Ph.D. 2019, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1308201923354000)
 
