@@ -10,7 +10,7 @@ header:
 
   Full list of our publication can be found on [Google Scholar](https://scholar.google.com.tw/citations?user=bO-yL20AAAAJ&hl=en&authuser=2){:target="_blank"} and [arXiv]( http://arxiv.org/a/kao_y_1){:target="_blank"}
 ## 2022
-1. "Protected Gapless Edge States In Trivial Topology", Yun-Chung Chen, Yu-Ping Lin, Ying-Jer Kao [arXiv:2206.04858](https://https://arxiv.org/abs/2206.04858).
+1. "Protected Gapless Edge States In Trivial Topology", Yun-Chung Chen, Yu-Ping Lin, Ying-Jer Kao, [arXiv:2206.04858](https://https://arxiv.org/abs/2206.04858).
 1. "Variational Quantum Reinforcement Learning via Evolutionary Optimization", Samuel Yen-Chi Chen, Chih-Min Huang, Chia-Wei Hsing, Hsi-Sheng Goan, Ying-Jer Kao, [Mach. Learn.: Sci. Technol. 3 015025(2022)](https://iopscience.iop.org/article/10.1088/2632-2153/ac4559), [arXiv:2109.00540](https://arxiv.org/abs/2109.00540).
 2. "Excitation spectrum of spin-1 Kitaev spin liquids", Yu-Hseuh Chen, Jozef Genzor, Yong Baek Kim, Ying-Jer Kao, [Phys. Rev. B 105, L060403(2022)](https://doi.org/10.1103/PhysRevB.105.L060403), [arXiv:2107.04730](https://arxiv.org/abs/2107.04730).
 1. "Phase structure of the CP(1) model in the presence of a topological $$\theta$$-term", Katsumasa Nakayama, Lena Funcke, Karl Jansen, Ying-Jer Kao, Stefan Kühn, [Phys. Rev. D 105, 054507](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.054507), [arXiv:2107.14220](https://arxiv.org/abs/2107.14220).
