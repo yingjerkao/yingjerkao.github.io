@@ -13,11 +13,11 @@ header:
 1. "Protected Gapless Edge States In Trivial Topology", Yun-Chung Chen, Yu-Ping Lin, Ying-Jer Kao (https://https://arxiv.org/abs/2206.04858)[arXiv:2206.04858].
 1. "Variational Quantum Reinforcement Learning via Evolutionary Optimization", Samuel Yen-Chi Chen, Chih-Min Huang, Chia-Wei Hsing, Hsi-Sheng Goan, Ying-Jer Kao, [Mach. Learn.: Sci. Technol. 3 015025(2022)](https://iopscience.iop.org/article/10.1088/2632-2153/ac4559), [arXiv:2109.00540](https://arxiv.org/abs/2109.00540).
 2. "Excitation spectrum of spin-1 Kitaev spin liquids", Yu-Hseuh Chen, Jozef Genzor, Yong Baek Kim, Ying-Jer Kao, [Phys. Rev. B 105, L060403(2022)](https://doi.org/10.1103/PhysRevB.105.L060403), [arXiv:2107.04730](https://arxiv.org/abs/2107.04730).
+1. "Phase structure of the CP(1) model in the presence of a topological $$\theta$$-term", Katsumasa Nakayama, Lena Funcke, Karl Jansen, Ying-Jer Kao, Stefan Kühn, [Phys. Rev. D 105, 054507](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.054507), [arXiv:2107.14220](https://arxiv.org/abs/2107.14220).
 1. "J1-J2 fractal studied by multi-recursion tensor-network method", Josef Genzor, Andrej Gendiar, Ying-Jer Kao,[Phys. Rev. E 105, 024124(2022)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.024124), 
 [arXiv:2107.11406](https://arxiv.org/abs/2107.11406).
 
 ## 2021
-1. "Phase structure of the CP(1) model in the presence of a topological $$\theta$$-term", Katsumasa Nakayama, Lena Funcke, Karl Jansen, Ying-Jer Kao, Stefan Kühn, [arXiv:2107.14220](https://arxiv.org/abs/2107.14220).
 3. "Two-wire Junction of Inequivalent Tomonaga-Luttinger Liquids", Yao-Tai Kang, Chung-Yu Lo, Masaki Oshikawa, Ying-Jer Kao, Pochung Chen, [Phys. Rev. B, 104, 235142(2021)](https://link.aps.org/doi/10.1103/PhysRevB.104.235142), [arXiv:2105.03104](https://arxiv.org/abs/2105.03104)
 4. "Detecting transition between Abelian and non-Abelian topological orders through symmetric tensor networks", Yu-Hsueh Chen, Ching-Yu Huang, and Ying-Jer Kao, [Phys. Rev. B 104, 045131(2021)](https://doi.org/10.1103/PhysRevB.104.045131), [arXiv:2102.10980](https://arxiv.org/abs/2102.10980).
 5. "Neural Monte Carlo Renormalization Group", Jui-Hui Chung, Ying-Jer Kao, [Phys. Rev. Research 3, 023230(2021)](https://doi.org/10.1103/PhysRevResearch.3.023230), [arXiv:2010.05703](https://arxiv.org/abs/2010.05703).
