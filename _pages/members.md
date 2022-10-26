@@ -10,7 +10,7 @@ header:
 
 # Principal Investigator
 
- <img src="/assets/images/yjkao.jpg" height="150px" width="150px"  >
+ <img src="/assets/images/Me2021.jpg" height="150px" width="150px"  >
 
   [**Prof. Ying-Jer Kao 高英哲**](/yingjerkao/) <br> Ph.D, University of Chicago, 2001
 

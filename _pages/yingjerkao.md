@@ -5,9 +5,9 @@ permalink: /yingjerkao/
 
 ##  Ying-Jer Kao
 
-<img src="/assets/images/yjkao.jpg" width="200px" height="200px">
+<img src="/assets/images/Me2021.jpg" width="200px" height="200px">
 
-[Curriculum Vitae](/assets/mycv2018.pdf)
+[Curriculum Vitae](/assets/mycv2022.pdf)
 
 ### Education
 * Ph. D., University of Chicago, 2001
