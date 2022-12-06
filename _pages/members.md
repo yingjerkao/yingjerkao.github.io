@@ -20,26 +20,29 @@ header:
 
 # Research Associate
 
-**Jing Yu Xu  許景喻**
 
 # Graduate Students
 
 
-**Yu-Hsueh Chen 陳昱學** (D1)
+**Guan-Lin Lin 林冠霖** (M3)
 
-**Guan-Lin Lin 林冠霖** (M2)
+**Yun-Chung Chen 陳允中** (M2)
 
-**Yun-Chung Chen 陳允中** (M1)
+**Hsiang-Bin Chiu 邱翔彬** (M2)
 
-**Hsiang-Bin Chiu 邱翔彬** (M1)
+**Ta-Rong Cheng 程大榕** (M2)
 
-**Ta-Rong Cheng 程大榕** (M1)
+**Ke Ksu 許可** (M1)
+
+**Chang-Teng Lin 林昶滕** (M1)
+
+**Tong Tsao  曹統** (M1)
+
 
 # Undergraduate Students
 
-**Ke Ksu 許可**
 
-# Former Group Members
+# Alumni
 
 ## Postdocs
 
@@ -55,6 +58,9 @@ header:
 
 **Dr. Jifeng Yu** 2009-2012 <br> Assistant Professor, HuNan University
 
+## Research Associate 
+
+**Jing Yu Xu  許景喻**
 ## Ph.D. Students
 
 **Jia-Hao Lee 李佳豪** 
@@ -64,6 +70,7 @@ header:
 **Ya-Lin Lo 羅雅琳** Ph.D. 2014, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1402201413393700)
 
 ## Master's Students
+**Yu-Hsueh Chen 陳昱學**, M.S. 2021, <br> Ph.D. student, UCSD
 
 **Ting-Chun David Lin 林鼎鈞** <br> Ph.D. student, UCSD
 
