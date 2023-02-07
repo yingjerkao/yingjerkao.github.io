@@ -9,6 +9,10 @@ header:
 ---
 
   Full list of our publication can be found on [Google Scholar](https://scholar.google.com.tw/citations?user=bO-yL20AAAAJ&hl=en&authuser=2){:target="_blank"} and [arXiv]( http://arxiv.org/a/kao_y_1){:target="_blank"}
+## 2023
+1. "Tensor Network Based Finite-Size Scaling for Two-Dimensional Classical Models", Ching-Yu Huang, Sing-Hong Chan, Ying-Jer Kao, Pochung Chen, [arXiv:2302.02585](https://arxiv.org/abs/2302.02585).
+
+
 ## 2022
 1. "Study of SU(2) gauge theories with multiple Higgs fields in different representations", Guilherme Catumba, Atsuki Hiraguchi, George W.-S. Hou, Karl Jansen, Ying-Jer Kao, C.-J. David Lin, Alberto Ramos, Mugdha Sarkar, [arXiv:2210.09855](https://arxiv.org/abs/2210.09855).
 2. "Variational Tensor Network Operator", Yu-Hsueh Chen, Ke Hsu, Wei-Lin Tu, Hyun-Yong Lee, Ying-Jer Kao,[Phys. Rev. Research 4, 043153(2022)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043153), [arXiv:2207.01819](https://arxiv.org/abs/2207.01819).
