@@ -12,7 +12,7 @@ header:
 ## 2023
 1. "Chern dartboard insulator: sub-Brillouin zone topology and skyrmion multipoles", Yun-Chung Chen, Yu-Ping Lin, Ying-Jer Kao, [arXiv:2302.07448](https://arxiv.org/abs/2302.07448).
 1. "Tensor Network Based Finite-Size Scaling for Two-Dimensional Classical Models", Ching-Yu Huang, Sing-Hong Chan, Ying-Jer Kao, Pochung Chen, [Phys. Rev. B, 107 205123 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.205123), [arXiv:2302.02585](https://arxiv.org/abs/2302.02585).
-1. "Stably protected gapless edge states without Wannier obstruction", Yun-Chung Chen, Yu-Ping Lin, Ying-Jer Kao,  [Phys. Rev. B 107, 075126 (2022](https://doi.org/10.1103/PhysRevB.107.075126), [arXiv:2206.04858](https://arxiv.org/abs/2206.04858).
+1. "Stably protected gapless edge states without Wannier obstruction", Yun-Chung Chen, Yu-Ping Lin, Ying-Jer Kao,  [Phys. Rev. B 107, 075126 (2023)](https://doi.org/10.1103/PhysRevB.107.075126), [arXiv:2206.04858](https://arxiv.org/abs/2206.04858).
 
 
 ## 2022
