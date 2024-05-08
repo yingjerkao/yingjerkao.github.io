@@ -10,6 +10,8 @@ header:
 
   Full list of our publication can be found on [Google Scholar](https://scholar.google.com.tw/citations?user=bO-yL20AAAAJ&hl=en&authuser=2){:target="_blank"} and [arXiv]( http://arxiv.org/a/kao_y_1){:target="_blank"}
 ## 2024
+1. "Direct Visualization of Disorder Driven Electronic Liquid Crystal Phases in Dirac Nodal Line Semimetal GdSbTe", Balaji Venkatesan, Syu-You Guan, Jen-Te Chang, Shiang-Bin Chiu, Po-Yuan Yang, Chih-Chuan Su, Tay-Rong Chang, Kalaivanan Raju, Raman Sankar, Somboon Fongchaiya, Ming-Wen Chu, Chia-Seng Chang, Guoqing Chang, Hsin Lin, Adrian Del Maestro, Ying-Jer Kao, Tien-Ming Chuang, [arXiv:2402.18893](https://arxiv.org/2402.18893). 
+1. "The Cytnx Library for Tensor Networks", Kai-Hsin Wu, Chang-Teng Lin, Ke Hsu, Hao-Ti Hung, Manuel Schneider, Chia-Min Chung, Ying-Jer Kao, Pochung Chen, [arXiv:2401.01921](https://arxiv.org/2401.01921).
 1. "Chern dartboard insulator: sub-Brillouin zone topology and skyrmion multipoles", Yun-Chung Chen, Yu-Ping Lin, Ying-Jer Kao, [Commun Phys 7, 32 (2024)](https://doi.org/10.1038/s42005-023-01502-8),[arXiv:2302.07448](https://arxiv.org/abs/2302.07448).
 
 ## 2023
