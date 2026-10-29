@@ -43,7 +43,7 @@ My thoughts on [how to do research](/assets/research.pdf).
 2. Tensor networks for complex quantum systems, Roman Orus, [arXiv:1812.04011](https://arxiv.org/abs/1812.04011)
 3. A Practical Introduction to Tensor Networks: Matrix Product States and Projected Entangled Pair States , Roman Orus, [arXiv:1306.2164](https://arxiv.org/abs/1306.2164)
 4. Advances on Tensor Network Theory: Symmetries, Fermions, Entanglement, and Holography, Roman Orus, [arXiv:1407.6552](https://arxiv.org/abs/1407.6552)
-
+5. Time-evolution methods for matrix-product states, Sebastian Paeckel, Thomas Köhler, Andreas Swoboda, Salvatore R. Manmana, Ulrich Schollwöck, Claudius Hubig, [arXiv:1901.05824](https://arxiv.org/abs/1901.05824)
 
 ## Machine Learning
 1. A high-bias, low-variance introduction to Machine Learning for physicists, Pankaj Mehta, Marin Bukov, Ching-Hao Wang, Alexandre G.R. Day, Clint Richardson, Charles K. Fisher, David J. Schwab,
@@ -51,4 +51,7 @@ My thoughts on [how to do research](/assets/research.pdf).
 2. Machine learning and the physical sciences, Giuseppe Carleo, Ignacio Cirac, Kyle Cranmer, Laurent Daudet, Maria Schuld, Naftali Tishby, Leslie Vogt-Maranto, Lenka Zdeborová,
 [arXiv:1903.10563](https://arxiv.org/abs/1903.10563)
 3. Machine Learning for Quantum Matter, Juan Carrasquilla, [arXiv:2003.11040](https://arxiv.org/abs/2003.11040)
-3. Quantum Computing in the NISQ era and beyond, J. Preskill,  Quantum 2, 79 (2018).  
+4. An introduction to infinite projected entangled-pair state methods for variational ground state simulations using automatic differentiation
+Jan Naumann, Erik Lennart Weerda, Matteo Rizzi, Jens Eisert, Philipp Schmoll, [SciPost Phys. Lect. Notes 86 (2024)](https://scipost.org/10.21468/SciPostPhysLectNotes.86).
+3. Quantum Computing in the NISQ era and beyond, J. Preskill,  [Quantum 2, 79 (2018)](https://quantum-journal.org/papers/q-2018-08-06-79/).   
+

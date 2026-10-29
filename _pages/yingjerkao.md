@@ -7,7 +7,7 @@ permalink: /yingjerkao/
 
 <img src="/assets/images/Me2021.jpg" width="200px" height="200px">
 
-[Curriculum Vitae](/assets/mycv2022.pdf)
+[Curriculum Vitae](/assets/CV2025.pdf)
 
 ### Education
 * Ph. D., University of Chicago, 2001
