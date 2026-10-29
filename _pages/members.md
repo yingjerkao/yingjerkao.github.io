@@ -17,31 +17,35 @@ header:
 
 # Postdoctoral Associate
 
+**Dr. David Ward**
 
-# Research Associate
-
+**Dr. Pulloor Kuttanikkad Vishnu**
 
 # Graduate Students
 
+**Shengchieh Tseng 曾晟捷** (D2)
 
-**Guan-Lin Lin 林冠霖** (M3)
+**Danill Kudrin** (D1)
 
-**Yun-Chung Chen 陳允中** (M2)
+**Chin-Chia Liang 梁晉嘉** (M2)
 
-**Hsiang-Bin Chiu 邱翔彬** (M2)
+**Yu-Hsuan Fan 范宇軒** (M2)
 
-**Ta-Rong Cheng 程大榕** (M2)
+**Yung-Hsing Chen 陳詠鑫** (M2)
 
-**Ke Ksu 許可** (M1)
+**Chao-Hung Liu 劉晁泓** (M1)
 
-**Chang-Teng Lin 林昶滕** (M1)
+**Wei-Cheng Su 蘇偉誠** (M1)
 
-**Tong Tsao  曹統** (M1)
+**Tsai-Yun Ho 何采昀** (M1)
+
+**Sheng-Jung Liao 廖聲融** (M1)
+
 
 
 # Undergraduate Students
 
-
+**Chen-Hsi Yu 游承熙**
 # Alumni
 
 ## Postdocs
@@ -62,15 +66,31 @@ header:
 
 **Jing Yu Xu  許景喻**
 ## Ph.D. Students
+**Hao-Ti Hong 洪浩迪** Ph.D. 2026, [Thesis:  Simulation of many-body dynamics with tensor networks and quantum circuits](https://tdr.lib.ntu.edu.tw/handle/123456789/101845)
 
 **Jia-Hao Lee 李佳豪** 
 
-**Chih-Yuan Lee 李致遠** Ph.D. 2019, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1308201923354000)
+**Chih-Yuan Lee 李致遠** Ph.D. 2019, [Thesis: Gapless spin liquid in the kagome Heisenberg antiferromagnet with Dzyaloshinskii-Moriya interactions](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/7918)
 
-**Ya-Lin Lo 羅雅琳** Ph.D. 2014, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1402201413393700)
+**Ya-Lin Lo 羅雅琳** Ph.D. 2014, [Thesis: Theoretical study of quantum transport in junctions of one-dimensional interacting quantum wires](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1402201413393700)
 
 ## Master's Students
-**Yu-Hsueh Chen 陳昱學**, M.S. 2021, <br> Ph.D. student, UCSD
+
+**Ta-Rong Cheng 程大榕**, M.S. 2024, [Thesis: Ground State Properties of Disordered Spin-1/2 Heisenberg Models in Low Dimensions](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/92156)
+
+**Ke Ksu 許可**,M.S. 2024, [Thesis: Variational tensor network study of anisotropic Kitaev model under magnetic fields](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/94084)
+
+**Chang-Teng Lin 林昶滕**, M.S. 2024 [Thesis: Generating Function Study of Kitaev Model Spectral Function](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/93994)
+
+**Tong Tsao  曹統**, M.S. 2024 [Thesis: Tensor Network Time Evolution Algorithm on Quantum Device](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/94627)
+
+**Guan-Lin Lin 林冠霖**, M.S. 2023 [Thesis: Symmetric Tensor Network Studies of the Spin-1/2 Heisenberg Model on Kagome Lattice](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/86980)
+
+**Yun-Chung Chen 陳允中**, M.S. 2023 [Thesis:Stably Protected Gapless Edge States in Trivial Topology](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/83246)
+
+**Hsiang-Bin Chiu 邱翔彬**, M.S. 2023 [Thesis: Electronic Properties of Low-Dimensional Strongly Correlated Systems in the Presence of Defects](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/90084)
+
+**Yu-Hsueh Chen 陳昱學**, M.S. 2021 [Thesis: Symmetric Tensor Network Studies of Kitaev Spin Liquids](https://www.airitilibrary.com/Article/Detail/U0001-2607202122194800) <br> Ph.D. student, UCSD
 
 **Ting-Chun David Lin 林鼎鈞** <br> Ph.D. student, UCSD
 
@@ -78,51 +98,51 @@ header:
 
 **Yen-Hsin Wu 吳硯欣**
 
-**Jui-Hui Chung 鍾瑞輝**, M.S. 2019, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1308201911222900) <br> Ph.D. student, Princeton University
+**Jui-Hui Chung 鍾瑞輝**, M.S. 2019, [Thesis: Renormalization Group and Machine Learning](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/73991) <br> Ph.D. student, Princeton University
 
-**Jing-Jer Yan 顏敬哲** M.S. 2019, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1108201922360300)
+**Jing-Jer Yan 顏敬哲** M.S. 2019, [Thesis: Analytic Continuation of Quantum Monte Carlo Data by Stochastic Methods](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1108201922360300)
 
-**Kevin Zhao 趙愷文** M.S. 2018, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-3007201823591500)
+**Kevin Zhao 趙愷文** M.S. 2018, [Thesis: Discover Monte Carlo Algorithm on Spin Ice Model Using Reinforcement Learning](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-3007201823591500)
 
-**Hao-Ti Hong 洪浩迪** M.S. 2018, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0808201814024600) <br> Chroma
+**Hao-Ti Hong 洪浩迪** M.S. 2018, [Thesis: Tensor Network Studies of Thirring Model on a One-dimensional Infinite-size Lattice](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0808201814024600) 
 
-**Kai-Hsin Wu 吳愷訢** M.S. 2018, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2307201812462500) <br> Ph.D. student, Boston University
+**Kai-Hsin Wu 吳愷訢** M.S. 2018, [Thesis: Classical spin liquid state in quantum kagome ice](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2307201812462500) <br> QuEra Computing
 
-**Chung-Chu Cheng 鄭君筑** M.S. 2017 [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2707201717374800)
+**Chung-Chu Cheng 鄭君筑** M.S. 2017 [Thesis: Phase Diagram and Dynamics of Dipolar Spin Ice in Tilted [111] Field](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2707201717374800)
 
-**Yun-Hsuan Zhou 周昀萱** M.S. 2016, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0408201615520800)
+**Yun-Hsuan Zhou 周昀萱** M.S. 2016, [Thesis: Comparative Studies of Tensor Network Algorithms for Two Dimensional Quantum Many-Body Systems](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0408201615520800)
 
-**Yu-Ping Lin 林育平** M.S. 2016, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0507201611483500)<br> Ph.D. student, University of Colorado, Boulder
+**Yu-Ping Lin 林育平** M.S. 2016, [Thesis: Tensor Network Studies on Antiferromagnetic Ising Chain in External Fields](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0507201611483500)<br> Postdoc, UC Berkeley
 
-**Wen-Han Kao 高文瀚** M.S. 2015, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1708201507570100) <br> Ph.D. student, University of Minnesota
+**Wen-Han Kao 高文瀚** M.S. 2015, [Thesis: Phase Transitions of Dipolar Spin Ice in Tilted [111] Field](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1708201507570100) <br> Postdoc, U of Madison
 
-**Yuan-Chi Yang 楊淵棨** M.S. 2014, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1106201410543500) <br> Ph.D. student, University of Wisconsin
+**Yuan-Chi Yang 楊淵棨** M.S. 2014, [Thesis: Effective Model on a Quantum Spin Ice Material Tb$$_2$$Ti$$_2$$O$$_7$$ ](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1106201410543500) <br> [Principal Engineer, TSMC](https://www.linkedin.com/in/yuan-chi-yang/)
 
-**Po-Kuan Wu 吳柏寬** M.S. 2014, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2907201416455600) <br> Ph.D. student, Ohio State University
+**Po-Kuan Wu 吳柏寬** M.S. 2014, [Thesis: Classical Monte Carlo Studies on 3D XY Models with Effects of Nonlinearity and Anisotropy](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2907201416455600) <br> [Senior Research Scientist, UpStart](https://www.linkedin.com/in/po-kuan-wu/)
 
-**Tzu-Chieh Kuo 郭子傑** M.S. 2014, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2607201416193500)
+**Tzu-Chieh Kuo 郭子傑** M.S. 2014, [Thesis: The Quench Dynamics and the Critical Behavior of the J1-J2 Ising Model](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2607201416193500)
 
-**Yen-Chi Wang 王彥直** M.S. 2013, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1807201310040000)
+**Yen-Chi Wang 王彥直** M.S. 2013, [Thesis: Plaquette Infinite Time-evolving Block-Decimation Method for the Transverse Ising Model on 2D Square Lattices](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1807201310040000)
 
-**Hsueh-Wen Chang 張學文** M.S. 2013, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1406201322471000)
+**Hsueh-Wen Chang 張學文** M.S. 2013, [Thesis: Detection of Symmetry Protected Topological Phases with MERA](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1406201322471000)
 
-**Sheng-Ching Lin 林昇慶** M.S. 2013, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2506201315335600) <br> Senior Software Engineer, co-founder at MySpotCam.com
+**Sheng-Ching Lin 林昇慶** M.S. 2013, [Thesis: Phase Transitions of a Dipolar Spin Ice in a [100] Field](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2506201315335600) <br> Senior Software Engineer, co-founder at MySpotCam.com
 
-**Yun-Da Hsieh 謝昀達** M.S. 2012, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0908201218425500) <br> Synology
+**Yun-Da Hsieh 謝昀達** M.S. 2012, [Thesis: Classical Monte Carlo Study on Phase Transitions](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0908201218425500) <br> Synology
 
-**Hsin-Chih Hsiao 蕭信智** M.S. 2010, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1201201018182300) <br> TSMC
+**Hsin-Chih Hsiao 蕭信智** M.S. 2010, [Thesis: Tensor Network States in Two Dimensional Quantum Spin Systems](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1201201018182300) <br> TSMC
 
-**Ta Ko 柯達** M.S. 2010, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2907201018154700) <br> NLP engineer, Bitmain
+**Ta Ko 柯達** M.S. 2010, [Thesis: Theoretical Study on NbSe2 as a Two-gap Superconductor](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2907201018154700) <br> NLP engineer, Bitmain
 
-**Yang-Zhi Chou 周揚智** M.S. 2009, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0907200915541700) <br> Ph.D, Rice University; Postdoc, University of Colorado
+**Yang-Zhi Chou 周揚智** M.S. 2009, [Thesis: Finite Anisotropy Effect in The Spin Ice System](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0907200915541700) <br> Ph.D, Rice University; Postdoc, University of Colorado
 
-**Yu-Cheng Su 蘇育正** M.S. 2009, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0107200915232600) <br> Ph.D, University of Waterloo; RD Principal Engineer at Delta Electronics
+**Yu-Cheng Su 蘇育正** M.S. 2009, [Thesis: Matrix Product States in One Dimensional Quantum Spin Systems](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0107200915232600) <br> Ph.D, University of Waterloo; RD Principal Engineer at Delta Electronics
 
-**Cheng-Wei Liu  劉承瑋** M.S. 2008, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0707200816523200) <br> Ph.D, Boston University; Data Scientist, Pandora
+**Cheng-Wei Liu  劉承瑋** M.S. 2008, [Thesis: Frustrated Interactions in a 2D Quantum Antiferromagnet](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0707200816523200) <br> Ph.D, Boston University; Data Scientist, Pandora
 
-**Chun-Ku Chen 陳俊谷** M.S. 2008, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2801200819153500)
+**Chun-Ku Chen 陳俊谷** M.S. 2008, [Thesis: A Numerical Study of Hyperkagome Lattice and Magnetization Jumps](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2801200819153500)
 
-**Yu-Chun Chen 陳昱均** M.S. 2007, [Thesis](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0107200710570600)
+**Yu-Chun Chen 陳昱均** M.S. 2007, [Thesis: Exotic Quantum Phases in 2D extended hardcore boson Hubbard Model](http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-0107200710570600)
 
 ## Undergraduate Students
 
